@@ -1,0 +1,67 @@
+h1{
+
+	text-decoration: underline;
+	font-size: 65px;
+	margin: 3px;
+	text-align: center;
+}
+
+html{
+
+	background-color: #3BE80C;
+}
+
+li{
+
+	font-size: 24px;
+}
+
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#todo_today{
+
+	background-color: EAD8ED;
+}
+
+label{
+
+	color: 7855C2;
+}
+
+li:nth-child(2n){
+
+	color: F0AD60;
+}
+li:nth-child(2n+1){
+
+	color:2F35D6;
+
+}
+
+li:nth-child(2n):hover {
+
+	color: 8888F2;
+	font-size: 60px;
+	text-align: center;
+}
+
+li:nth-child(2n+1):hover{
+
+	font-size: 85px;
+	color: E334CC;
+	text-align: center;
+}
+
+#todo_today:hover{
+
+	height: 50px;
+	width: 150px;
+
+}
+
+#todo_today: {
+s
+
+}
